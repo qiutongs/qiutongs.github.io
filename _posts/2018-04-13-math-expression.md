@@ -1,5 +1,4 @@
 ---
-layout: "post"
 title: "Math Expression"
 categories: computer-science stack
 permalink: /:categories/math-expression
