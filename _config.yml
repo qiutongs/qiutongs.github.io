@@ -16,7 +16,7 @@
 title: Qiutong Techblog
 email: songqt01@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Share my thoughts of Computer Science and related techonology
+  Share my thoughts of part of the world
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: null
