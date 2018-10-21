@@ -2,6 +2,8 @@
 title: "SSL Certificate"
 ---
 
+**Deprecated**
+
 ##几个相关概念
 - 加密/解密 (encryption/decryption): 发送方加密消息， 接收方解密消息
   - 对称加密（Symmetric）：同一个key来机密和解密
